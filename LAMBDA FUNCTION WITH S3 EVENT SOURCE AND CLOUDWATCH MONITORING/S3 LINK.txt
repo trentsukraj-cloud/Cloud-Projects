@@ -1,0 +1,1 @@
+https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-100-PRYODA-1-37918/8-lab-introduction-lambda/s3/CreateThumbnail.zip
